@@ -1,5 +1,5 @@
-label start:
-
+label fujitsu_begin_hunt:
+    
     image bg battle_bg = "battle_bg.jpg"
 
     image fujitsu_target:
@@ -7,8 +7,6 @@ label start:
 
     $ targets_needed = 5
 
-label fujitsu_begin_hunt:
-    
     $ shots_fired = 0
     $ targets_hit = 0
 
